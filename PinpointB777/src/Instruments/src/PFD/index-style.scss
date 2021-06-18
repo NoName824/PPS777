@@ -1,0 +1,25 @@
+#body{
+}
+
+#horizon{
+    left: 375px;
+    top: 550px;
+    position: absolute;
+    z-index: 0;
+    //transform: rotate(90deg);
+}
+
+#border{
+    left: 400px;
+    top: 640px;
+    position: absolute;
+    z-index: 15;
+    //transform: rotate(90deg);
+}
+
+#FD{
+    position: absolute;
+    z-index: 10;
+    left: 540px;
+    top: 780px;
+}
