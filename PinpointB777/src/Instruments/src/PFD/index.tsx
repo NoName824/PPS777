@@ -76,7 +76,7 @@ const PFD = () => {
                     'px)rotate('+roll.toString()+'deg'}}/>
                 </div>
                 <div id='border'>
-                    <img src="/Pages/VCockpit/instruments/B777/SVG/border.svg" width='500'/>
+                    <img src="/Pages/VCockpit/instruments/B777/SVG/border.svg" width='600'/>
                 </div>
                 <div id='FD'>
                     <img src="/Pages/VCockpit/instruments/B777/SVG/FlightDirector.svg" width='170' />
