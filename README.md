@@ -8,15 +8,26 @@
 
 ## About
 
-In February of 2021, we annouced our free project called the PPS 777 (Pinpoint Simulations 777) which is based off the Boeing 777-300ER aircraft. We plan to make the entire 777 family after we make the debut of the 777-300ER. Additionally, our project is open-source, which means *you* can contribute to the project in a multitude of different ways.
+In February of 2021, we annouced our free project called the PPS 777 (Pinpoint Simulations 777) which is based off the Boeing 777-300ER aircraft. We plan to make the entire 777 family after we make the debut of the 777-300ER. Additionally, our project is open-source, which means *you* can contribute to the project in a multitude of different ways!
 
 ## Download
 
-As of right now, we currently cannot offer the PPS 777 for download as it is not completed or ready for flight! With that being said, you can join our Discord and follow for updates of our models and the overall development of the aircraft.
+As we progress further into a state to test the aircraft, we want to show you how to build the plane in Microsoft Flight Simulator using these steps:
+
+- Download the Repository
+- Extract the PPS777 folder to a suitable location (Not your community folder)
+- Enable Development Mode in MSFS (If you need help, [click here.](https://www.youtube.com/watch?v=OLcUhRvRw_U)
+- On the development bar at the top of your MSFS window, Click [Dev Mode] > Open Project. Select PinpointB77 > Pinpoint777Project.xml
+- From the Command Prompt, (Type CMD in the start menu), run the commands npm i, and npm run build, in the PinpointB777 folder, this generates the display files from src. (You must have [npm/node.js](https://nodejs.org/) installed)
+- In the development bar at the top of MSFS, Open Tools > Project Editor, and click build all.
+- Once the build is complete, the B777 will appear in your available aircraft list.
+
+**Some parts of the aircraft may be missing or invalid because we haven't finalized everything. This build is NOT the final product, and is only for fun.**
+After this, if you feel like many parts are missing, or the plane behaves incorrectly, open an [issue here](https://github.com/Pinpoint-Simulations/PPS777/issues) and we'll help you as much to our advantage.
 
 ## Contributing
 
-See our [contributing guide here](https://github.com/Pinpoint-Simulations/PPS777/blob/master/.github/Contributing.md) or by going to our [website](https://pinpointsimulations.net/pull_requests.html).
+For contributing to the project, see our [contributing guide here](https://github.com/Pinpoint-Simulations/PPS777/blob/master/.github/Contributing.md) or by going to our [website](https://pinpointsimulations.net/pull_requests.html).
 
 ## FAQ
 
@@ -26,7 +37,7 @@ A: *Our content is always being made sure that it is perfected. That said, our c
 
 Q: **I have a suggestion, where can I submit it?**
 
-A: *You can submit any suggestion in our Discord server*
+A: *You can submit any suggestion in our Discord server.*
 
 Q: **What 3D software do we use?**
 
@@ -34,7 +45,7 @@ A: *Our development team uses Blender, a free and open source 3D modeling progra
 
 Q: **Are we making anything other than aircraft?**
 
-A: *Yes are do, we are currently developing the UAAA scenery. We do not have a repository for you to view those models but you can monitor the progress in our Discord.*
+A: *We are currently working on Pinpoint Asphalt with the scenery team. You can join our Discord to see their progress.*
 
 ## Branding
 
