@@ -1,0 +1,48 @@
+#body{
+}
+
+#horizon{
+    left: 385px;
+    top: 550px;
+    position: absolute;
+    z-index: 0;
+    //transform: rotate(90deg);
+}
+
+#border{
+    left: 410px;
+    top: 635px;
+    position: absolute;
+    z-index: 15;
+    //transform: rotate(90deg);
+}
+
+#FD{
+    position: absolute;
+    z-index: 10;
+    left: 338px;
+    top: 586px;
+}
+
+// #spdStripe{
+//     position: absolute;
+//     z-index: 20;
+//     left: 500px;
+//     top: 630px;
+// }
+
+// #spdBox{
+//     position: absolute;
+//     z-index: 20;
+//     left: 600px;
+//     top: 640px;
+// }
+
+// #speed{
+//     position: absolute;
+//     z-index: 25;
+//     left: 610px;
+//     top: 650px;
+//     transform: rotate(90deg);
+//     font-size: smaller;
+// }
