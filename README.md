@@ -3,7 +3,7 @@
 # Pinpoint Simulations 777/PPS 777
 
 [![Discord](https://img.shields.io/discord/807148974745714709.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MdtbBnVK9Y)
-<img alt="open collective badge" src="https://opencollective.com/pinpointsimulations/tiers/donate-to-us/badge.svg?label=Our%20OpenCollective!&color=red" />
+<img alt="open collective badge" src="https://opencollective.com/pinpointsimulations/tiers/donate-to-us/badge.svg?label=Our%20Current%20Contributors!&color=red" />
 
 **Welcome to the GitHub repository of our freeware aircraft, the Boeing 777, for Microsoft Flight Simulator!**
 
