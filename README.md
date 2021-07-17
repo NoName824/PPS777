@@ -3,7 +3,8 @@
 # Pinpoint Simulations 777/PPS 777
 
 [![Discord](https://img.shields.io/discord/807148974745714709.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MdtbBnVK9Y)
-<img alt="open collective badge" src="https://opencollective.com/pinpointsimulations/tiers/donate-to-us/badge.svg?label=Our%20Current%20Contributors!&color=red" />
+<object type="image/svg+xml" data="https://opencollective.com/pinpointsimulations/tiers/donate-to-us.svg?avatarHeight=36&width=600"></object>
+
 
 **Welcome to the GitHub repository of our freeware aircraft, the Boeing 777, for Microsoft Flight Simulator!**
 
@@ -18,6 +19,8 @@ As of right now, we currently cannot offer the PPS 777 for download as it is not
 ## Contributing
 
 See our [contributing guide here](https://github.com/Pinpoint-Simulations/PPS777/blob/master/.github/Contributing.md) or by going to our [website](https://pinpointsimulations.net/pull_requests.html).
+
+[Our Open Collective for CDN funds.](https://opencollective.com/pinpointsimulations)
 
 ## FAQ
 
